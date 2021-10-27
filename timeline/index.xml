@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timeline on Home</title>
+    <link>https://ropunch04.github.io/timeline/</link>
+    <description>Recent content in Timeline on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ropunch04.github.io/timeline/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Progress Update 1 (9/28/2021)</title>
+      <link>https://ropunch04.github.io/timeline/chapter-1/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ropunch04.github.io/timeline/chapter-1/</guid>
+      <description>Recently added after last class, so I still need to fill these with content.
+This one will talk about my very initial idea. Each subsequent progress update will be for any milestone/interesting things I discover while I conduct my research.</description>
+    </item>
+    
+    <item>
+      <title>Progress Update 2 (10/13/2021)</title>
+      <link>https://ropunch04.github.io/timeline/chapter-2/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ropunch04.github.io/timeline/chapter-2/</guid>
+      <description>Recently added after last class, so I still need to fill these with content.
+This progress update will talk about research regarding feature extraction of the Sun (also the potential to expand into lightcurves).</description>
+    </item>
+    
+    <item>
+      <title>Progress Update 3 (10/25/2021)</title>
+      <link>https://ropunch04.github.io/timeline/chapter-3/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ropunch04.github.io/timeline/chapter-3/</guid>
+      <description>Recently added after last class, so I still need to fill these with content.
+This progress update will be regarding recent articles (emailed scientists) I&amp;rsquo;ve found regarding my project and how I&amp;rsquo;ve begun thinking about my ML Architecture (Multiclass CNN-LSTM Sequence Classification)</description>
+    </item>
+    
+  </channel>
+</rss>
